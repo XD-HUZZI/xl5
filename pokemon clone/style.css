@@ -1,0 +1,79 @@
+.navbar{
+    height: 65px;
+    width: 100%;
+}
+
+.boxes{
+    height: 100%;
+    color: black;
+    /* color: #ffff; */
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+
+.box1{
+   height: 100%;
+   width: 100px;
+   /* color: black; */
+   /* background-color: lightblue; */
+   background-image: url(./logo-pokemon-79x45.png);
+   background-repeat: no-repeat;
+   background-position: 10px 10px;
+   /* border-radius: 2px solid ;
+   border-color: yellow; */
+    
+}
+.box2{
+    height: 100%;
+    width: 90px;
+    /* background-color: lightblue; */
+    background-image: url(./logo-pokemoncenter-79x45.png);
+   background-repeat: no-repeat;
+   background-position: 10px 10px;
+
+
+}
+.box3{
+    height: 100%;
+    width: 105px;
+    /* background-color:  lightblue; */
+    background-image: url(./corporate-en.png);
+   background-repeat: no-repeat;
+   background-position: 10px 10px;
+
+
+}
+.box4{
+    height: 100%;
+    width: 182px;
+    /* background-color:  lightblue; */
+    background-image: url(./tcg-175-en.png);
+   background-repeat: no-repeat;
+   background-position: 2px ;
+
+
+}
+.box5{
+    height: 100%;
+    width: 182px;
+    /* background-color:  lightblue; */
+    background-image: url(./scarlet-violet-175x50-en.jpg);
+   background-repeat: no-repeat;
+   background-position: 5px 7px;
+
+
+}
+.box6{
+    height: 100%;
+    width: 182px;
+    /* background-color:  lightblue; */
+    background-image: url(./community-forums-175x50-en.png);
+   background-repeat: no-repeat;
+   background-position: 5px 7px;
+
+
+}
